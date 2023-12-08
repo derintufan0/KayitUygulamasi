@@ -1,3 +1,5 @@
+# Derin Tufan - 20220108065
+
 # KayitUygulamasi
 Bu proje, öğrencinin kendi bilgilerini ve kayıt olmak istediği ders bilgilerini girerek ders kaydını yapmasını sağlayan bir Java uygulamasıdır. Projenin içerisinde bulunan ana sınıflar şunlardır:
 
